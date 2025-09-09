@@ -17,7 +17,7 @@ namespace FluxoDesconto
         {
             return new List<Cliente>
             {
-                new Cliente { Nome = "Nome", BeneficiadoDoMes = true, CPF = "123.456.789-00" },
+                new Cliente { Nome = "Nome", BeneficiadoDoMes = true, CPF = "123.456.789-000" },
                 new Cliente { Nome = "Nome", BeneficiadoDoMes = false, CPF = "123.456.888-00" },
                 new Cliente { Nome = "Nome", BeneficiadoDoMes = true, CPF = "123.456.755-00" },
                 new Cliente { Nome = "Nome", BeneficiadoDoMes = false, CPF = "123.456.999-00" },

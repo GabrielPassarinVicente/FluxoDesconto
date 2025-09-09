@@ -77,6 +77,7 @@ namespace FluxoDesconto
                 {
                     desconto = valorCompra * 0.10;
                     totalCompra = valorCompra - desconto;
+                    Console.WriteLine("Desconto:");
                     Console.WriteLine("Valor total:" + valorCompra);
                     Console.WriteLine("Valor do desconto:" + desconto);
                     Console.WriteLine("Valor do total com desconto:" + totalCompra);

@@ -6,6 +6,7 @@
         {
            CompraCliente cliente = new CompraCliente();
             cliente.Equals(cliente);
+            //funcionanod
            
         }
     }
